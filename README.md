@@ -1,7 +1,2 @@
-### 武汉 华中科技大学 传播学＋伪计算机
-### 兴趣&工作方向——互联网产品
-### E-mail：thesun0916@sina.com
-### 关于文章
- 一切自己认为有价值的所想所见
- 关于互联网&产品的思考和见识
- 胡思乱想
+### 没错博客代码是偷的 -.- ，博客原作：https://github.com/GitHub-Laziji/vblog
+### 我的联系方式  E-mail：thesun0916@sina.com
